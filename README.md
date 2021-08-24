@@ -5,7 +5,7 @@ JavaScript: Website to keep track of your location to avoid COVID-19 Hotspots
 
 This is a demo video on every feature of this project: -> https://www.youtube.com/watch?v=gYnWmKfN0Zw
 
-#Introduce the idea of the project: 
+# Introduce the idea of the project: 
 This project is about Covid-19 pandemic. The webpage will help the user to see the current hotspots (around the world and around users' area), keep track of the location that they have been to by check-in, then, based on the checkin history, they can press a button to check if they have been near to any hotspot.
 
 How can the users check in a venue/location? 
@@ -14,7 +14,7 @@ How can the users check in a venue/location?
 What if the user visit a venue that is not in our database? 
 - We also provide an additional feature for checkin which is check-in by GPS. The users can check in their current location with only a click, no need to entering any code if they don't know the code of the venue. (Note that GPS of some older device might be inaccurate) 
 
- #3 types of users and all features: 
+ # 3 types of users and all features: 
  - Normal users account: 
     - Sign up and log in (or log in by gmail).
     - Edit account information
@@ -41,13 +41,13 @@ What if the user visit a venue that is not in our database?
         - Add/remove a hotspot 
         - Create a hotspot with information: latitude, longitude, active cases, deaths, recovered cases, confirmed cases
 
-#Used framework: 
+# Used framework: 
 - Javascript 
 - NodeJS, ExpressJS: for server
 - Bootstrap, VueJS: for dynamic front-end 
 - MySQL for backend (relational database): see the database_info to check the database schema. 
 
-#Files that you need to care: 
+# Files that you need to care: 
 These are all the files that you might need to care, others are just configuration files. (installation listed below)
 
     - stylesheet/style.css: css file for design web page
@@ -59,7 +59,7 @@ These are all the files that you might need to care, others are just configurati
     - database_info folder: the database schema (how you will design the database), and database dump (constraints between tables and sample data) 
     - app.js: your server setup with some necessary node modules, but this is my setup YOU NEED TO MODIFY THIS FILE
 
-#Installation: 
+# Installation: 
 *Important node: this project was developed on CS50 IDE with my university account, therefore, there are some configurations that is already set up for me (Express server, MySQL database management). So that to set this project up on your own computer, you should understand how to set up Express server on your computer, connect your server to MySQL database, design database as instructed in database_info folder. You will need to modify app.js file for your setup, steps below are
 basic steps you need to set up, then you will need to care about the files listed above. 
 
@@ -82,7 +82,7 @@ basic steps you need to set up, then you will need to care about the files liste
 
 Remember to check files listed above (files you need to care) that are all the files that you need. 
 
-#How to run this project? 
+# How to run this project? 
 If you are sure that the server and database is good to go, run your server and start with index.html
 
 
