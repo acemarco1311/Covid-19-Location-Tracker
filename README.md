@@ -26,8 +26,6 @@ What if the user visit a venue that is not in our database?
     - See the information of the users who have checked in this venue
     - Sign up and log in (or log in by gmail)
     - Edit account information
-    - See the current hotspots on a map
-    - Click a hotspot on a map to see more information about the hotspot
 
 - Admin account: 
     - Log in & sign up
