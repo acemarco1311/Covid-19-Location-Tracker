@@ -47,6 +47,8 @@ What if the user visit a venue that is not in our database?
 
 #Files that you need to care: 
 These are all the files that you might need to care, others are just configuration files. (installation listed below)
+
+    - stylesheet/style.css: css file for design web page
     - All HTML file in /public: the webpages
     - public/images: images used for front-end 
     - public/javascripts/page.js: all the javascript function for each button in the webpage
