@@ -1,6 +1,10 @@
 # Covid-19-Location-Tracker
 JavaScript: Website to keep track of your location to avoid COVID-19 Hotspots 
 
+# Demo: 
+
+This is a demo video on every feature of this project: -> https://www.youtube.com/watch?v=gYnWmKfN0Zw
+
 #Introduce the idea of the project: 
 This project is about Covid-19 pandemic. The webpage will help the user to see the current hotspots (around the world and around users' area), keep track of the location that they have been to by check-in, then, based on the checkin history, they can press a button to check if they have been near to any hotspot.
 
@@ -81,6 +85,5 @@ Remember to check files listed above (files you need to care) that are all the f
 #How to run this project? 
 If you are sure that the server and database is good to go, run your server and start with index.html
 
-#Demo video:
-This is a demo video on every feature of this project: -> 
+
 
